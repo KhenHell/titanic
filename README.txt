@@ -1,0 +1,1 @@
+This is a ML project that predicts which passengers survived the sinking of the Titanic and which did not.
